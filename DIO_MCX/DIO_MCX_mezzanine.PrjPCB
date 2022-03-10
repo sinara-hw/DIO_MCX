@@ -122,10 +122,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFQYZLAO
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_3U_BNC\Design Rule Check - DIO_MCX_mezzanine.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
