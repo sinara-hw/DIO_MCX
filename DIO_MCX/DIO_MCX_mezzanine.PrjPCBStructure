@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MCX_Mezzanine.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MCX_Mezzanine.SchDoc|Designator=Mezz_A|SchDesignator=Mezz_A|FileName=MCX_Buffer_mezz.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCX_Buffer_mezz.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCX_Mezzanine.SchDoc|Designator=Mezz_B|SchDesignator=Mezz_B|FileName=MCX_Buffer_mezz.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCX_Buffer_mezz.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
